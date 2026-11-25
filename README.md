@@ -35,7 +35,6 @@
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
 </p>
 
